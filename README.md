@@ -1,2 +1,2 @@
 # Roll-the-Dice
-Simple game where there are 2 dices . The player with the maximum dice value wins.
+Each player is given a dice .Roll both dices at the same time. The player with the maximum dice value wins.
